@@ -1,5 +1,3 @@
-# HamRover Privacy Policy
-
 Effective date: Nov 7, 2026
 
 This Privacy Policy explains how the HamRover iOS app ("HamRover," "the app") handles information. HamRover is developed and published by Paul Sarver ("we," "us").
